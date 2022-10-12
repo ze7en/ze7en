@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Kim aka @ze7en
-- 🔭 I’m currently working as a Front-end Developer at Valent AB in Sweden
+- 🔭 I’m currently working as a fullstack developer at Valent AB in Sweden
 - 👀 I’m interested in: Front-end development and learning new technologies 
 - 💻 Most used line of code: git status
 - 🌱 I’m currently learning: React, GraphQL, NextJS
