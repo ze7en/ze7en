@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Kim aka @ze7en
 - 🔭 I’m currently working as a fullstack developer at Valent AB in Sweden
-- 👀 I’m interested in: Front-end development and learning new technologies 
+- 👀 I’m interested in: Front-end development, accessability and learning new technologies 
 - 💻 Most used line of code: git status
-- 🌱 I’m currently learning: React, OpenAI
+- 🌱 I’m currently learning: OpenAI
 - 📫 How to reach me: kimthorning@gmail.com
 - ⚡ Fun fact: I love boardgames, fishing and have two national gold medals in Roller Derby.
 
